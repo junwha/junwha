@@ -4,6 +4,7 @@
 - 📫 How to reach me: qbit@unist.ac.kr
 - :book: I’m currently learning Flutter, Problem Solving, LLVM
 - ⚡ Skills: C/C++, Python, Arduino, Flutter, Java 
+- 👀 [My Portfolio](https://www.notion.so/junwha/Portfolio-5993ce97431540eb913847190e370eeb?showMoveTo=true&saveParent=true)
 
 [![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511)](https://github.com/junwha0511/github-readme-stats)
 
