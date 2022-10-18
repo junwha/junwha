@@ -7,9 +7,6 @@
 - ⚡ Skills: C/C++, Python, Arduino, Flutter, Java 
 
 [![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511)](https://github.com/junwha0511/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junwha0511&layout=compact)](https://callor.com)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=junwha0511&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
