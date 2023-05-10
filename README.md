@@ -3,8 +3,8 @@
 - 👀 [My Portfolio](https://junwha.notion.site/Portfolio-5993ce97431540eb913847190e370eeb)
 - 🔭 I’m currently working on [S2Lab](https://github.com/S2-Lab)
 - 📫 How to reach me: qbit@unist.ac.kr
-- :book: I’m currently learning LLVM, RISC-V
-- ⚡ Skills: C/C++, Python, Arduino, Flutter, Java 
+- :book: I’m currently learning LLVM, Rust
+- ⚡ Skills: C/C++, Python, Arduino, Flutter, Java, and LLVM 
 
 [![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511)](https://github.com/junwha0511/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=junwha0511&row=1)](https://github.com/ryo-ma/github-profile-trophy)
