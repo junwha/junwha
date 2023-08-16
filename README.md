@@ -6,7 +6,7 @@
 - :book: I’m currently learning Rust
 - ⚡ Skills: C/C++, Python, Arduino, Flutter, Java, and LLVM 
 
-![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511&show=reviews,discussions_started,prs_merged)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=junwha0511&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
