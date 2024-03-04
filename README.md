@@ -3,8 +3,8 @@
 - 👀 [My Portfolio](https://www.linkedin.com/in/junwha/)
 - 🔭 I’m currently working on [S2Lab](https://github.com/S2-Lab)
 - 📫 How to reach me: qbit@unist.ac.kr
-% - :book: I’m currently learning Rust
 - ⚡ Skills: LLVM, C/C++, Python, and Java
+<!-- - :book: I’m currently learning Rust -->
 
 ![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511&show=reviews,discussions_started,prs_merged)
 
