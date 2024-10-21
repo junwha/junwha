@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on [S2Lab](https://github.com/S2-Lab)-->
 
 
-![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha0511&show=reviews,discussions_started,prs_merged)
+![Junwha's GitHub stats](https://github-readme-stats.vercel.app/api?username=junwha&show=reviews,discussions_started,prs_merged)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=junwha0511&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=junwha&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
